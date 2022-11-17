@@ -1,3 +1,3 @@
-function salvar() {
-    alert('Salvou');
+function enviar() {
+    alert('Enviado');
 }
